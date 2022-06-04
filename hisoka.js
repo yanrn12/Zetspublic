@@ -2575,7 +2575,7 @@ untuk membuat stiker dan lain lain
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Romli II'
                                 }
                             }, {
                                 quickReplyButton: {
