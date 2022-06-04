@@ -430,7 +430,7 @@ klik https://wa.me/${botNumber.split`@`[0]}`, m, { mentions: [roof.p, roof.p2] }
             if (!afkTime || afkTime < 0) continue
             let reason = user.afkReason || ''
             m.reply(`
-Jangan tag dia!
+Jangan tag dia Cok!
 Dia sedang AFK ${reason ? 'dengan alasan ' + reason : 'tanpa alasan'}
 Selama ${clockString(new Date - afkTime)}
 `.trim())
@@ -1491,7 +1491,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/alya.xzy'
+                                    url: 'https://instagram.com/Romli II'
                                }
                             }, {
                                 quickReplyButton: {
@@ -2551,7 +2551,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
              case 'menu': case 'help': case '?': {
              kon = await getBuffer(`https://telegra.ph/file/5b7dfa74a98f61347570e.jpg`)
              fot = 'note: jika kamu pakai wa mod langsung aja\nketik #allmenu\nJagan spam ya bang, kuntullll'             
-             anu = `Hai kak ${pushname}, have a nice day:)
+             anu = `Hai kak ${pushname}, Semoga Harimu Suram!:)
 
 Saya adalah ${botname}, yang memudahakan anda
 untuk membuat stiker dan lain lain
@@ -2887,7 +2887,7 @@ untuk membuat stiker dan lain lain
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Romli II'
                                 }
                             }, {
                                 quickReplyButton: {
