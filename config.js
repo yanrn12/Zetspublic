@@ -24,14 +24,14 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
-    success: 'Berhasil',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    success: '*DONE NGAB..*',
+    admin: '*Fitur Khusus Admin NGNTD!!*',
+    botAdmin: '*Botnya Admin Dulu Lah Knt*l*',
+    owner: '_*Lu Bukan Owner Gua Bangke*_',
+    group: '_*Mikir dikit anj!!,ini bukan group*_',
+    private: '*Chat pribadi!!*',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Tunggu sebentar, sedang di proses',
+    wait: '*Wait mek..*',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
