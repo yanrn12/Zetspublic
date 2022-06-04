@@ -2573,8 +2573,8 @@ _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan l
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Instagram',
-                                    url: 'https://instagram.com/Romli II'
+                                    displayText: 'Github',
+                                    url: 'https://github.com/romlisuhanda'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2885,8 +2885,8 @@ _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan l
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Instagram',
-                                    url: 'https://instagram.com/Romli II'
+                                    displayText: 'Github',
+                                    url: 'https://github.com/romlisuhanda'
                                 }
                             }, {
                                 quickReplyButton: {
