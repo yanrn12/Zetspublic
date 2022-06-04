@@ -2553,8 +2553,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
              fot = 'note: jika kamu pakai wa mod langsung aja\nketik #allmenu\nJagan spam ya bang, kuntullll'             
              anu = `_*Hai kak*_ *${pushname}*, _*Jangan Spam Ya Tod*_
 
-_*Saya adalah*_ ${botname},yang memudahakan anda
-untuk membuat stiker dan lain lain*_
+_*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan lain"*_
             
 ✘ *I N F O - B O T*
 
