@@ -16,7 +16,7 @@ global.owner = ['6281322667077']
 global.premium = ['0']
 global.ownername = 'Romli Suhanda'
 global.botname = 'ZxyuuBOTZ-MD'
-global.packname = '© Zxyuu - MULTI DEVICE'
+global.packname = '© ZxyuuBOTZ - MULTI DEVICE'
 global.gc = ''
 global.limitawal = '100'
 global.author = ''
@@ -40,7 +40,7 @@ global.limitawal = {
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
-global.menu = fs.readFileSync('./media/menu.jpg')
+global.menu = fs.readFileSync('./media/IMG-20220604-WA0007.jpg')
 global.allmenu = fs.readFileSync('./media/allmenu.jpg')
 global.thumb = fs.readFileSync('./media/pepe.jpg')
 
