@@ -552,7 +552,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-⌕ Script : https://github.com/romlisuhanda/Zetspublic
+⌕ Script Recode : https://github.com/romlisuhanda/Zetspublic
 ⌕ Script ori : https://github.com/DikaArdnt/Hisoka-Morou
 
 Jangan lupa kasih bintang.
@@ -580,8 +580,8 @@ Dika Ardnt
 Fatih Arridho
 ⌕ https://github.com/FatihArridho
 
-Nando35
-⌕ https://github.com/Nando35
+Romli Ngab
+⌕ https://github.com/romlisuhanda
 
 Alya
 ⌕ https://github.com/AliyaBot
@@ -606,9 +606,9 @@ Alya
                 } else if (args[0] === 'archive') {
                     hisoka.chatModify({  archive: true }, m.chat, []).then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
                 } else if (args[0] === 'unarchive') {
-                    hisoka.chatModify({ archive: false }, m.chat, []).then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
+                    hisoka.chatModify({ archive: true }, m.chat, []).then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
                 } else if (args[0] === 'read') {
-                    hisoka.chatModify({ markRead: true }, m.chat, []).then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
+                    hisoka.chatModify({ markRead: false }, m.chat, []).then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
                 } else if (args[0] === 'unread') {
                     hisoka.chatModify({ markRead: false }, m.chat, []).then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
                 } else if (args[0] === 'delete') {
