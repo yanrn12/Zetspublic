@@ -547,7 +547,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/f8d35118f27c5b371da2b.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⌕ 15k Per Group via E-Walet 1 Month\n⌕ 20k via pulsa 1 Month\n\n Premium Price Bot\n⌕ 10k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281252848955 (Owner)\n\nDonate For Me : \n\n⌕ Paypal : https://www.paypal.me/Rifando35\n⌕ Saweria : https://saweria.co/Nando35` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/0ad51be1376e72c50a442.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⌕ 10k Per Group\n⌕ 10k via pulsa 1 Month\n\n Premium Price Bot\n⌕ 20k per User 1 bulan\n\nPayment can be via pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281322667077 (Owner)\n\nDonate For Me : \n\n⌕ Pulsa : https://wa.me/621322667077\n⌕ telkomsel : https://wa.me/6281215710461` }, { quoted: m })
             }
             break
             case 'sc':  case 'sourcecode': {
@@ -1195,7 +1195,7 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/romlisuhanda/Zetspublic'
                                 }
                             }]
                       let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -1214,7 +1214,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/romlisuhanda/Zetspublic'
                                 }
                             }]
                       let txt = `「 Broadcast Bot 」\n\n${text}`
