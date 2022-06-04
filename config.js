@@ -40,8 +40,8 @@ global.limitawal = {
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
-global.menu = fs.readFileSync('./media/IMG-20220604-WA0007.jpg')
-global.allmenu = fs.readFileSync('./media/allmenu.jpg')
+global.menu = fs.readFileSync('./media/IMG-20220605-WA0030.jpg')
+global.allmenu = fs.readFileSync('./media/')
 global.thumb = fs.readFileSync('./media/IMG-20220604-WA0033.jpg')
 
 let file = require.resolve(__filename)
