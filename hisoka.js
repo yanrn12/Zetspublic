@@ -552,20 +552,19 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-⌕ Script : https://github.com/Nando35/ZetsM
+⌕ Script : https://github.com/romlisuhanda/Zetspublic
 ⌕ Script ori : https://github.com/DikaArdnt/Hisoka-Morou
 
 Jangan lupa kasih bintang.
-⌕ Donate : 628125284895 (Dana / gopay)
-⌕ Saweria : https://saweria.co/Nando35
-⌕ Paypal : https://www.paypal.me/Rifando35
+⌕ Donate : 0281224804625 (Pulsa)
+⌕ Telkomsel : 0281215710461
 
 Dont Forget Donate
 `
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Romli II'
                                 }
                             }]
                         hisoka.send5ButImg(m.chat, anu, botname, global.sc, btn)
@@ -581,7 +580,7 @@ Dika Ardnt
 Fatih Arridho
 ⌕ https://github.com/FatihArridho
 
-Whwhwh
+Nando35
 ⌕ https://github.com/Nando35
 
 Alya
@@ -590,7 +589,7 @@ Alya
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/Romli II'
                                 }
                             }]
                         hisoka.send5ButImg(m.chat, anu, botname, global.tq, btn)
