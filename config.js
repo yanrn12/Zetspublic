@@ -12,10 +12,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281224804625']
+global.owner = ['6281322667077']
 global.premium = ['0']
-global.ownername = 'Romzz'
-global.botname = 'Zxyuu Botz'
+global.ownername = 'Romli Suhanda'
+global.botname = 'ZxyuuBOTZ-MD'
 global.packname = '© Zxyuu - MULTI DEVICE'
 global.gc = ''
 global.limitawal = '100'
