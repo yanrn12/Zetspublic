@@ -13,13 +13,13 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6281322667077']
-global.premium = ['0']
+global.premium = ['6281215710461']
 global.ownername = 'Romli Suhanda'
 global.botname = 'ZxyuuBOTZ-MD'
-global.packname = '© ZxyuuRomm - XzyuuNaii'
+global.packname = '© ZxyuuRomm'
 global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
 global.limitawal = '100'
-global.author = ''
+global.author = 'XzyuuNaii'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
@@ -31,7 +31,7 @@ global.mess = {
     group: '_*Mikir dikit anj!!,ini bukan group*_',
     private: '*Chat pribadi!!*',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '*Wait mek..*',
+    wait: '*Wait Tod Lagi Proses!!*',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
