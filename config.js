@@ -12,22 +12,22 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281322667077']
-global.premium = ['6281215710461']
-global.ownername = 'Romli Suhanda'
-global.botname = 'ZxyuuBOTZ-MD'
-global.packname = '© ZxyuuRomm'
-global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
+global.owner = ['6281326024103']
+global.premium = ['6281326024103']
+global.ownername = 'Gaara Setyawan'
+global.botname = '𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣 𝙼𝙳'
+global.packname = '© 𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣'
+global.gc = 'https://chat.whatsapp.com/EfV5HKwFGUvKSMDz83WAMb'
 global.limitawal = '100'
-global.author = 'XzyuuNaii'
+global.author = '𝑮𝒂𝒂𝒓𝒂 𝑺𝒆𝒕𝒚𝒂𝒘𝒂𝒏'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
     success: '*DONE NGAB..*',
     admin: '*Fitur Khusus Admin NGNTD!!*',
-    botAdmin: '*Botnya Admin Dulu Lah Knt*l*',
-    owner: '_*Lu Bukan Owner Gua Bangke*_',
+    botAdmin: '*Botnya Admin Dulu Lah Bjirr',
+    owner: '_*Lu Bukan Owner Gua_',
     group: '_*Mikir dikit anj!!,ini bukan group*_',
     private: '*Chat pribadi!!*',
     bot: 'Fitur Khusus Pengguna Nomor Bot',

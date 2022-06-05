@@ -27,8 +27,8 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = 'ZxyuuBOTZ-MD'
-wm = '© ZyuuBotz'
+botname = '𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣 𝙼𝙳'
+wm = '© 𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -144,7 +144,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
 	}
 
 const listmsg = (from, title, desc, list) => { // ngeread nya pake rowsId, jadi command nya ga keliatan
-            let po = hisoka.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "Pilih Disini","footerText": "𝐻𝑒𝑟𝑚𝑎𝑛 𝐶ℎ𝑎𝑛𝑒𝑙᭄𓅂","listType": "SINGLE_SELECT","sections": list, quoted:mek}}, {})
+            let po = hisoka.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "Pilih Disini","footerText": "ᴹᴿ᭄𝑮𝒂𝒂𝒓𝒂 𝑺𝒆𝒕𝒚𝒂𝒘𝒂𝒏᭄𓅂","listType": "SINGLE_SELECT","sections": list, quoted:mek}}, {})
             return hisoka.relayWAMessage(po, {waitForAck: true, quoted:mek})
         }
 	    
@@ -547,7 +547,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/0ad51be1376e72c50a442.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⌕ 10k Per Group\n⌕ 10k via pulsa 1 Month\n\n Premium Price Bot\n⌕ 20k per User 1 bulan\n\nPayment can be via pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281322667077 (Owner)\n\nDonate For Me : \n\n⌕ Pulsa : https://wa.me/621322667077\n⌕ telkomsel : https://wa.me/6281215710461` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/fea9288a4d0cfcf17cc4c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⌕ 10k Per Group\n⌕ 10k via pulsa 1 Month\n\n Premium Price Bot\n⌕ 20k per User 1 bulan\n\nPayment can be via pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281326024103 (Owner)\n\nDonate For Me : \n\n⌕ Pulsa : https://wa.me/621326024103\n⌕ telkomsel : https://wa.me/6281326014103` }, { quoted: m })
             }
             break
             case 'sc':  case 'sourcecode': {
@@ -556,15 +556,15 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 ⌕ Script ori : https://github.com/DikaArdnt/Hisoka-Morou
 
 Jangan lupa kasih bintang.
-⌕ Donate : 0281224804625 (Pulsa)
-⌕ Telkomsel : 0281215710461
+⌕ Donate : 081326024103 (Pulsa)
+⌕ Telkomsel : 081326024103
 
 Dont Forget Donate
 `
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/Romli II'
+                                    url: 'https://instagram.com/gaaraxploite'
                                 }
                             }]
                         hisoka.send5ButImg(m.chat, anu, botname, global.sc, btn)
@@ -589,7 +589,7 @@ Alya
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/Romli II'
+                                    url: 'https://instagram.com/gaaraxploite'
                                 }
                             }]
                         hisoka.send5ButImg(m.chat, anu, botname, global.tq, btn)
@@ -1491,7 +1491,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/Romli II'
+                                    url: 'https://instagram.com/gaaraxploite'
                                }
                             }, {
                                 quickReplyButton: {
@@ -2549,9 +2549,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 //────────────────────[ MAIN MENU HOOOOOOHHH ]────────────────────
 
              case 'menu': case 'help': case '?': {
-             kon = await getBuffer(`https://telegra.ph/file/5b7dfa74a98f61347570e.jpg`)
+             kon = await getBuffer(`https://telegra.ph/file/fea9288a4d0cfcf17cc4c.jpg`)
              fot = 'note: jika kamu pakai wa mod langsung aja\nketik #allmenu\nJagan spam ya bang, kuntullll'             
-             anu = `_*Hai kak*_ *${pushname}*, _*Jangan Spam Ya Tod*_
+             anu = `_*Hai kak*_ *${pushname}*, _*Jangan Spam Ya Bank*_
 
 _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan lain"*_
             
@@ -2574,7 +2574,7 @@ _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan l
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Github',
-                                    url: 'https://github.com/romlisuhanda'
+                                    url: 'https://github.com/gaarasr'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2597,7 +2597,7 @@ _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan l
             break
 
             case 'menuall': case 'allmenu': {
-                buffer = await getBuffer(`https://telegra.ph/file/5b7dfa74a98f61347570e.jpg`)
+                buffer = await getBuffer(`https://telegra.ph/file/fea9288a4d0cfcf17cc4c.jpg`)
                 anu = `*Hai* *${pushname}*, _*Jngn Spam Mek!!*_
                 
                               
@@ -2886,7 +2886,7 @@ _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan l
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Github',
-                                    url: 'https://github.com/romlisuhanda'
+                                    url: 'https://github.com/gaarasr'
                                 }
                             }, {
                                 quickReplyButton: {
