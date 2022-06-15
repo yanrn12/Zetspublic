@@ -27,8 +27,8 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = '𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣 𝙼𝙳'
-wm = '© 𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣'
+botname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
+wm = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -552,12 +552,11 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             break
             case 'sc':  case 'sourcecode': {
 	        anu = `
-⌕ Script Recode : https://github.com/romlisuhanda/Zetspublic
-⌕ Script ori : https://github.com/DikaArdnt/Hisoka-Morou
+⌕ Script : https://github.com/DikaArdnt/Hisoka-Morou
 
 Jangan lupa kasih bintang.
 ⌕ Donate : 081326024103 (Pulsa)
-⌕ Telkomsel : 081326024103
+⌕ Dana : 081326024103
 
 Dont Forget Donate
 `
@@ -579,9 +578,6 @@ Dika Ardnt
 
 Fatih Arridho
 ⌕ https://github.com/FatihArridho
-
-Romli Ngab
-⌕ https://github.com/romlisuhanda
 
 Alya
 ⌕ https://github.com/AliyaBot
