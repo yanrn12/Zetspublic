@@ -8,30 +8,30 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'GuaAbuzz17',
+	'https://zenzapi.xyz': 'BagasGanz',
 }
 
 // Other
 global.owner = ['6281326024103']
 global.premium = ['6281326024103']
 global.ownername = 'Gaara Setyawan'
-global.botname = '𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣 𝙼𝙳'
-global.packname = '© 𝙵𝚒𝚛𝚊 𝙱𝚘𝚝𝚣'
-global.gc = 'https://chat.whatsapp.com/EfV5HKwFGUvKSMDz83WAMb'
+global.botname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
+global.packname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
+global.gc = 'https://tinyurl.com/22phnfwc'
 global.limitawal = '100'
 global.author = '@gaaraxploite'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
-    success: '*DONE NGAB..*',
-    admin: '*Fitur Khusus Admin NGNTD!!*',
+    success: '*DONE NGAP..*',
+    admin: '*Lu Admin?*',
     botAdmin: '*Botnya Admin Dulu Lah Bjirr',
-    owner: '_*Lu Bukan Owner Gua_',
+    owner: '_*Lu Bukan Owner Gua_*',
     group: '_*Mikir dikit anj!!,ini bukan group*_',
     private: '*Chat pribadi!!*',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '*Wait Tod Lagi Proses!!*',
+    wait: '*Wait Semdang DiProses*',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
