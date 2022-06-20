@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281326024103']
-global.premium = ['6281326024103']
+global.owner = ['201507384088']
+global.premium = ['201507384088']
 global.ownername = 'Gaara Setyawan'
 global.botname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
 global.packname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
@@ -24,7 +24,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
-    success: '*DONE NGAP..*',
+    success: '*DONE NGAB..*',
     admin: '*Lu Admin?*',
     botAdmin: '*Botnya Admin Dulu Lah Bjirr',
     owner: '_*Lu Bukan Owner Gua_*',
