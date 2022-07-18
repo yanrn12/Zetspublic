@@ -8,13 +8,13 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'BagasGanz',
+	'https://zenzapi.xyz': 'sonelstore',
 }
 
 // Other
 global.owner = ['201507384088']
 global.premium = ['201507384088']
-global.ownername = 'Gaara Setyawan'
+global.ownername = 'ī.am/𝘨𝘢𝘢𝘳𝘢'
 global.botname = 'R E N A ⁵̄⁴͍⁵ ̵〆'
 global.packname = 'Rena MD ⁵̄⁴͍⁵ ̵〆'
 global.gc = 'https://tinyurl.com/22phnfwc'
@@ -24,15 +24,15 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
-    success: '*DONE NGAB..*',
-    admin: '*Lu Admin?*',
-    botAdmin: '*Botnya Admin Dulu Lah Bjirr',
-    owner: '_*Lu Bukan Owner Gua_*',
-    group: '_*Mikir dikit anj!!,ini bukan group*_',
-    private: '*Chat pribadi!!*',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: '*Wait Semdang DiProses*',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    success: '*DONE NGAB🤗*',
+    admin: '*Lu Admin🤨?*',
+    botAdmin: '*Botnya Admin Dulu Lah Bjirr🤧*',
+    owner: '*Lu Bukan Owner Gua😠*',
+    group: '*Mikir dikit anj!!,ini bukan group😤*',
+    private: '*Chat pribadi!!👿*',
+    bot: '*Fitur Khusus Pengguna Nomor Bot*',
+    wait: '*Weit Semdang DiProses😁*',
+    endLimit: '*Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12*',
 }
 global.limitawal = {
     premium: "Infinity",

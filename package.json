@@ -1,5 +1,5 @@
 {
-  "name": "ZETS-MD",
+  "name": "RENA-MD",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Nando35.",
+  "author": "gaara setyawan",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",

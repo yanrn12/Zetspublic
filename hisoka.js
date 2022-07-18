@@ -27,8 +27,8 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '100'
-botname = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁 ⁵̄⁴͍⁵ ̵〆'
-wm = '𝗙𝗶𝗻𝗱𝗶𝗯𝗼𝘁'
+botname = 'RENA MD〆'
+wm = 'gaaraxploite'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -547,7 +547,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/fea9288a4d0cfcf17cc4c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⌕ 10k Per Group\n⌕ 10k via pulsa 1 Month\n\n Premium Price Bot\n⌕ 20k per User 1 bulan\n\nPayment can be via pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281326024103 (Owner)\n\nDonate For Me : \n\n⌕ Pulsa : https://wa.me/621326024103\n⌕ telkomsel : https://wa.me/6281326014103` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/fea9288a4d0cfcf17cc4c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⌕ 10k Per Group\n⌕ 10k via pulsa 1 Month\n\n Premium Price Bot\n⌕ 20k per User 1 bulan\n\nPayment can be via pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6281326024103 (Owner)\n\nDonate For Me : \n\n⌕ Pulsa : https://wa.me/6281326024103\n⌕ telkomsel : https://wa.me/6281326014103` }, { quoted: m })
             }
             break
             case 'sc':  case 'sourcecode': {
@@ -576,11 +576,8 @@ case 'tqto': case 'partner': case 'credits': {
 Dika Ardnt
 ⌕ https://github.com/DikaArdnt
 
-Fatih Arridho
-⌕ https://github.com/FatihArridho
-
-Alya
-⌕ https://github.com/AliyaBot
+Gaara Setyawan
+⌕ https://github.com/gaara-ofc
 `
 	                let btn = [{
                                 urlButton: {
@@ -1191,7 +1188,7 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/romlisuhanda/Zetspublic'
+                                    url: 'https://github.com/gaara-ofc'
                                 }
                             }]
                       let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -1210,7 +1207,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/romlisuhanda/Zetspublic'
+                                    url: 'https://github.com/romlisuhanda/gaara-ofc'
                                 }
                             }]
                       let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -1678,7 +1675,7 @@ break
 //────────────────────[ PRIMBON ]────────────────────
 
 	    case 'nomerhoki': case 'nomorhoki': {
-                if (!Number(text)) throw `Example : ${prefix + command} 6288292024190`
+                if (!Number(text)) throw `Example : ${prefix + command} 6281326024103`
                 let anu = await primbon.nomer_hoki(Number(text))
                 if (anu.status == false) return m.reply(anu.message)
                 hisoka.sendText(m.chat, `⌕ *Nomor HP :* ${anu.message.nomer_hp}\n⌕ *Angka Shuzi :* ${anu.message.angka_shuzi}\n⌕ *Energi Positif :*\n- Kekayaan : ${anu.message.energi_positif.kekayaan}\n- Kesehatan : ${anu.message.energi_positif.kesehatan}\n- Cinta : ${anu.message.energi_positif.cinta}\n- Kestabilan : ${anu.message.energi_positif.kestabilan}\n- Persentase : ${anu.message.energi_positif.persentase}\n⌕ *Energi Negatif :*\n- Perselisihan : ${anu.message.energi_negatif.perselisihan}\n- Kehilangan : ${anu.message.energi_negatif.kehilangan}\n- Malapetaka : ${anu.message.energi_negatif.malapetaka}\n- Kehancuran : ${anu.message.energi_negatif.kehancuran}\n- Persentase : ${anu.message.energi_negatif.persentase}`, m)
@@ -2570,7 +2567,7 @@ _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan l
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Github',
-                                    url: 'https://github.com/gaarasr'
+                                    url: 'https://github.com/gaara-ofc'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2882,7 +2879,7 @@ _*Saya adalah*_ *${botname}*, _*yang memudahakan anda untuk membuat stiker dan l
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Github',
-                                    url: 'https://github.com/gaarasr'
+                                    url: 'https://github.com/gaara-ofc'
                                 }
                             }, {
                                 quickReplyButton: {
