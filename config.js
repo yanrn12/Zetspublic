@@ -12,14 +12,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['201507384088']
-global.premium = ['201507384088']
-global.ownername = 'ī.am/𝘨𝘢𝘢𝘳𝘢'
-global.botname = 'R E N A ⁵̄⁴͍⁵ ̵〆'
-global.packname = 'Rena MD ⁵̄⁴͍⁵ ̵〆'
+global.owner = ['6289516947204']
+global.premium = ['6289516947204']
+global.ownername = '𝚒𝚢𝚊𝚗Ⓒ︎'
+global.botname = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃
+global.packname = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃'
 global.gc = 'https://tinyurl.com/22phnfwc'
 global.limitawal = '100'
-global.author = '@gaaraxploite'
+global.author = '@𝚁𝙲𝚃𝙸 𝙱𝙾𝚃'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
